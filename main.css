@@ -1,0 +1,53 @@
+body {
+	background-color: white;
+}
+
+.article {
+	 max-width: 1200px;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+.NFL {
+	font-family: "Arial", sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.deck {
+	text-align: center;
+	font-family: "Georgia", sans-serif;
+	font-size: 20px;
+}
+
+.byline {
+	font-size: 20px;
+	font-family: "Georgia", sans-serif;
+	font-weight: bolder;
+}
+
+img {
+	width: 100%;
+}
+
+
+.caption {
+	font-family: "Arial", sans-serif;
+	font-size: 15px;
+	color: darkgray;
+}
+
+.rushing {
+	font-family: "Georgia", sans-serif;
+	font-size: 20px;
+}
+
+.passing {
+	font-family: "Georgia", sans-serif;
+	font-size: 20px;
+}
+
+.draft {
+	font-family: "Georgia", sans-serif;
+	font-size: 20px;
+}
